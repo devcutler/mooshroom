@@ -10,6 +10,7 @@
     <PublishDir>release/</PublishDir>
     <DebugSymbols>false</DebugSymbols>
     <DebugType>None</DebugType>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
